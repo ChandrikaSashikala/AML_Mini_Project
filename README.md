@@ -1,12 +1,12 @@
-# SMS Spam Classification Using Machine Learning
+ SMS Spam Classification Using Machine Learning
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 This project focuses on detecting spam and non-spam (ham) SMS messages using Natural Language Processing (NLP) and Machine Learning techniques.
 
 The main purpose of this project is to classify text messages into two categories: Spam and Ham. Different machine learning algorithms are applied and compared to identify the best-performing model.
 
-## 🎯 Objective
+ 🎯 Objective
 
 The objectives of this project are:
 
@@ -17,7 +17,7 @@ The objectives of this project are:
 - To evaluate and compare the performance of the algorithms.
 - To identify the best-performing machine learning model.
 
-## 📊 Dataset
+ 📊 Dataset
 
 The project uses an SMS spam classification dataset containing text messages labelled as:
 
@@ -26,7 +26,7 @@ The project uses an SMS spam classification dataset containing text messages lab
 
 The dataset was obtained from Kaggle.
 
-## 🔧 Technologies Used
+ 🔧 Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -36,7 +36,7 @@ The dataset was obtained from Kaggle.
 - Scikit-learn
 - Natural Language Processing (NLP)
 
-## ⚙️ Methodology
+ ⚙️ Methodology
 
 The project follows these major steps:
 
@@ -53,7 +53,7 @@ The project follows these major steps:
 11. Compare the results
 12. Identify the best-performing model
 
-## 🤖 Machine Learning Algorithms
+ 🤖 Machine Learning Algorithms
 
 The following algorithms were applied:
 
@@ -63,7 +63,7 @@ The following algorithms were applied:
 4. Quadratic Discriminant Analysis (QDA)
 5. MLP Classifier
 
-## 📈 Evaluation Metrics
+ 📈 Evaluation Metrics
 
 The models were compared using the following evaluation metrics:
 
@@ -73,32 +73,32 @@ The models were compared using the following evaluation metrics:
 - F1-Score
 - Confusion Matrix
 
-## 📁 Project Files
+ 📁 Project Files
 
-### Jupyter Notebook
+ Jupyter Notebook
 
 `SMS_Spam_Classification.ipynb`
 
 This file contains the complete Python code, data preprocessing, machine learning implementation, evaluation, graphs, and results.
 
-### Project Report
+ Project Report
 
 `AML_MINIPRO.pdf`
 
 This file contains the complete documentation and explanation of the project.
 
-## 🏆 Results
+ 🏆 Results
 
 The performance of all the machine learning algorithms was compared using suitable evaluation metrics.
 
 The model with the best overall performance was selected as the best-performing algorithm for SMS spam classification.
 
-## 📌 Conclusion
+ 📌 Conclusion
 
 This project demonstrates how Natural Language Processing and Machine Learning can be used to automatically classify SMS messages as spam or ham.
 
 The comparison of multiple algorithms helps in understanding their performance and selecting a suitable model for the classification task.
 
-## 👩‍💻 Author
+Chandrika
 
 AI & Machine Learning Student
